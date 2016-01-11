@@ -1,2 +1,2 @@
 # kaa.rk
-Because I like short names with dots stuck in the middle.
+Because I like short names made of abbreviations joined by hostname separators.
