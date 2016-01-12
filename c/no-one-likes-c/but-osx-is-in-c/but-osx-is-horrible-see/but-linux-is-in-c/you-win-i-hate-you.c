@@ -20,19 +20,18 @@ f(        11)
    printf(
     "%d",
 
-(11)+11-11/11
+f(11)+11-11/11
 );
 p\
 uts(" iz bad\
 .\
  \
-i aint gonna"
+i aint gonna "
 
 "use it, not\
  n"        "\
 e"         "\
 ver");return\
-f(      1)
-;}       /*
-ne        ve
-r.         */
+/*       */
+f(        1)
+;}         //
