@@ -29,7 +29,7 @@ uts(" iz bad\
 i aint gonna "
 
 "use it, not\
- n"        "\
+ "         "\
 e"         "\
 ver");return\
 /*       */
