@@ -1,7 +1,8 @@
 #"This is a Pyth program!"
 print"This is a Python program!"
 
------
+
+
 Explanation (Pyth):
   First line:
     #             Start infinite while loop (on error, cancels it and breaks)
