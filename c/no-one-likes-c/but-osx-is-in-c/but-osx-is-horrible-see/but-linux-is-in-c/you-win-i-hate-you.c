@@ -2,8 +2,8 @@
 stil      l,n
 o- on     e l
 ik  es    C.B
-ec   us   thi
-s.    */  int
+ec   au   se.
+:)    */  int
 f(     int b)
 
 {return b>2?f
