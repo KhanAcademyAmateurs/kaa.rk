@@ -1,0 +1,21 @@
+VSQ++Kv*\1N\=|j\*PK1
+
+Explanation:
+
+V          For N in
+ S         the inclusive range from 1 to
+  Q        the input:
+           (implicit) Print
+  +        the concatenation of
+   +       the concatenation of
+    K      the value of K, which is now set to
+     v     the evaluation of
+      *    the repetition of
+       \1  the character "1"
+       N   N times
+    \=     and the character "="
+   |       if the first expression evaluates to True, concatenate with it, else concatenate with the second.
+    j      the joining with
+     \*    the character "*"
+     PK    of the prime factorization of the value of K
+    1      the number 1
