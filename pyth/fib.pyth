@@ -1,1 +1,24 @@
-L?>b2+ytbyttb1yQ
+L?>b2+ytbyttb1LyQ
+
+Explanation:
+
+L           Define function y(b): Return
+ ?          if
+  >         Greater is
+   Q        the input
+            than
+   2        2
+            then
+  +         the sum of
+   y        y(
+    tb      b - 1
+            )
+   y        y(
+    ttb     b - 1 - 1
+            )
+            else
+  1         1
+
+y           (implicit print) the value of y(
+ Q          the input
+            )
