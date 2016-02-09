@@ -1,1 +1,53 @@
 K\*L*Kh*4lzM+*+K*d3lzKy0g00Vzpjd[KNk;Kg00y0
+
+Explanation:
+
+K\*       Set K to "*"
+L         Define function y(n): Return
+ *        the repetition of
+  K       K
+          (
+  h       1 +
+   *      the multiplication of
+    4     4
+          and
+    l     the length of
+     z    the input
+          )
+          times
+
+M         Define function g(m, n): Return
+ +        the concatenation of
+          (
+  *       the repetition of
+          (
+   +      the concatenation of
+    K     K
+          and
+    *     the repetition of
+     d    " "
+     3    3
+          times
+          )
+          (
+  l       the length of
+   z      the input
+          )
+          times
+          )
+ K        and K
+
+y0        (implicit print with newline) the result of y
+g00       (implicit print with newline) the result of g
+Vz        For [each character] N in the input
+  p       Print without newline
+   j      the joining of
+    d     using " "
+    [     the list consisting of
+     K    K
+     N    N
+     k    ""
+;         End loop
+K         (implicit print with newline) K
+g00       (implicit print with newline) the result of g
+y0        (implicit print with newline) the result of y
